@@ -4,8 +4,9 @@ Creates a simple json file from the pages including the URL and the data of the 
 Javascript for example to add search functionality.
 
 Example
-```
 
+```
+[{"url":"article1.md.html","data":{"title":"Shred pumpkin seeds with condensed milk","description":"All bung holes love jolly, evil grogs.","author":"Nagi Iman","date":"2016-10-03T00:00:00.000Z","update":"2016-10-16T00:00:00.000Z","layout":"default.hbs"}},{"url":"article2.md.html","data":{"title":"sour shredded loaf","description":"Jolly, never rob a pants.","author":"Nagi Iman"}}]
 ```
 
 ## Options
