@@ -1,0 +1,36 @@
+{
+  "name": "assemble-json-index",
+  "version": "0.0.1",
+  "description": "An Assemble plugin to create a json file which can be used by javascript",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "gulp smoke-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rparree/assemble-json-index"
+  },
+  "keywords": [
+    "assemble",
+    "assembleplugin",
+    "assemblemiddleware",
+    "static",
+    "index",
+    "json"
+  ],
+  "author": "Raphaël Parrée",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rparree/assemble-json-index/issues"
+  },
+  "devDependencies": {
+    "assemble": "~0.4.42",
+    "gulp": "~3.9.0"
+  },
+  "dependencies": {
+    "underscore": "~1.8.3",
+    "async": "~1.5.0",
+    "grunt": "~0.4.5",
+    "gulp-grunt": "~0.5.3"
+  }
+}
