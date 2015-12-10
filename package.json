@@ -31,6 +31,7 @@
     "underscore": "~1.8.3",
     "async": "~1.5.0",
     "grunt": "~0.4.5",
-    "gulp-grunt": "~0.5.3"
+    "gulp-grunt": "~0.5.3",
+    "node-mkdirs": "0.0.1"
   }
 }
