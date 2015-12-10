@@ -1,4 +1,4 @@
-# assemble-json-index
+# assemble-json-index [![Build Status](https://travis-ci.org/rparree/assemble-json-index.svg?branch=master)](https://travis-ci.org/rparree/assemble-json-index)
 
 Creates a simple json file from the pages including the URL and the data of the page. This can then be used by the sites's
 Javascript for example to add search functionality.
