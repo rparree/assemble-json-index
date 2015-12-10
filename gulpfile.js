@@ -12,4 +12,5 @@ gulp.task('watch', function () {
     gulp.watch('lib/**/*.js', ['assemble']);
 });
 
-gulp.task('smoke-test', ['assemble','watch']);
+gulp.task('dev', ['assemble','watch']);
+gulp.task('smoke-test', ['assemble']);
